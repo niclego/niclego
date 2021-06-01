@@ -9,6 +9,7 @@ I am an iOS Engineer with 2 years of professional full time experience.
 My current side project is called Apod (A Picture a Day). There is a SwiftUI frontend and Javascript, Node, AWS, Serverless backend. To get more information, please take a look at:
 
 <a href="https://github.com/niclego/apod_client" target="_blank">https://github.com/niclego/apod_client</a>
+
 <a href="https://github.com/niclego/apod_api" target="_blank">https://github.com/niclego/apod_api</a>
 
 
