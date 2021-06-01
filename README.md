@@ -15,6 +15,7 @@ My current side project is called Apod (A Picture a Day). There is a SwiftUI fro
 ## Personal Links
 - @nicmiclego for my Twitter handle
 - nick.p.legorrec@gmail.com for email
+- <a href="https://www.linkedin.com/in/nicolas-le-gorrec-4552a2111/" target="_blank">LinkedIn</a>
 
 <!--
 **niclego/niclego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
