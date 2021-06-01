@@ -1,4 +1,16 @@
-### Hi there, I'm Nick 👋
+# Hi there, I'm Nick 👋
+
+### I'm an iOS Engineer who likes to make apps for iOS, iPasOS, watchOS, and macOS.
+
+## About me
+I am an iOS Engineer with 2 years of professional full time experience.
+
+## Current Projects
+My current side project is called Apod (A Picture a Day). There is a SwiftUI frontend and Javascript, Node, AWS, Serverless backend. To get more information, please take a look at:
+```text
+https://github.com/anfederico/Stocktalk
+```
+
 
 <!--
 **niclego/niclego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
