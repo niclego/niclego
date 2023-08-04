@@ -3,7 +3,7 @@
 ### I'm an iOS Engineer who likes to make apps for iOS, iPasOS, watchOS, and macOS.
 
 ## About me
-I am an iOS Engineer with professional experience.
+I am an iOS Engineer with three years of professional experience.
 
 ## Personal Links
 - @nicmiclego for my Twitter handle
