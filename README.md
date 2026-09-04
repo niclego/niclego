@@ -5,11 +5,9 @@ focused on clean architecture and thoughtful UX.
 
 ## Apps
 
-**[Playlist Buddy](https://apps.apple.com/us/app/playlist-buddy/id6757322823)** — Apple Music playlist 
-management with AI-powered track insights. Available on the App Store.
+**[Playlist Buddy](https://apps.apple.com/us/app/playlist-buddy/id6757322823)** — An Apple Music power-user utility built for large playlists and long listening sessions. It resumes shuffle playback across multiple playlists, each remembering its own position, and layers on AI-enabled experiences: "Learn More" track insights powered by on-device Apple Intelligence, natural-language playlist generation, and daily puzzles built from the listener's own library.
 
-**[Lastheard](https://apps.apple.com/us/app/lastheard/id6476578337)** — Social music discovery app with live venue maps and 
-real-time listening activity.
+**[Lastheard](https://apps.apple.com/us/app/lastheard/id6476578337)** — A localized music-discovery app built on the Apple Music catalog. Listeners post tracks they like, tag them live at a venue, and follow people whose taste they trust, while an interactive map surfaces what is trending at venues and around the world.
 
 ## Writing & Contact
 
